@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dk.2.yadav28@gmail.com**
 
-- 📄 Know about my experiences [📄 Resume: Will be added soon (Pro tip: add Google Drive link later)](📄 Resume: Will be added soon (Pro tip: add Google Drive link later))
+- 📄 Know about my experiences https://drive.google.com/file/d/1__k40BHw8lc2EGTIlwUK0_IjHUE4r_Z7/view?usp=drive_link
 
 - ⚡ Fun fact **I debug better at night and somehow break things right before they start working 😅**
 
