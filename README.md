@@ -1,29 +1,147 @@
-<h1 align="center">Hi 👋, I'm Dheeraj kumar yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [WTI Space – Web Projects Portfolio](https://github.com/Dheeraj0928/yoga?utm_source=chatgpt.com)
+<h1 align="center">Hi 👋, I'm Dheeraj Kumar Yadav</h1>
 
-- 🌱 I’m currently learning **JavaScript (advanced concepts) Responsive UI/UX design Git & GitHub (real-world workflows) Basics of React (next step loading ⏳)**
+<h3 align="center">Python Developer | Django Developer | AI & Automation Enthusiast</h3>
 
-- 👯 I’m looking to collaborate on [Frontend Web Projects (HTML, CSS, JavaScript, Bootstrap)](https://github.com/Dheeraj0928)
-
-- 🤝 I’m looking for help with [Improving UI/UX & Performance Optimization](https://github.com/Dheeraj0928/yoga?utm_source=chatgpt.com)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Dheeraj0928](https://github.com/Dheeraj0928)
-
-- 📝 I regularly write articles on [✍️ Coming soon… (planning tech + learning blogs)](✍️ Coming soon… (planning tech + learning blogs))
-
-- 💬 Ask me about **HTML & CSS layouts Bootstrap (4 & 5) Website structuring Frontend project organization**
-
-- 📫 How to reach me **dk.2.yadav28@gmail.com**
-
-- 📄 Know about my experiences https://drive.google.com/file/d/1__k40BHw8lc2EGTIlwUK0_IjHUE4r_Z7/view?usp=drive_link
-
-- ⚡ Fun fact **I debug better at night and somehow break things right before they start working 😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://github.com/Dheeraj0928">
+    <img src="https://komarev.com/ghpvc/?username=Dheeraj0928&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+I'm Dheeraj Kumar Yadav, a recently graduated engineering student passionate about Python development, backend development, AI, and automation.
+
+I enjoy building practical projects that solve real-world problems and help me improve my development skills.
+
+- 🔭 Currently working on AI-powered applications and automation projects
+- 🌱 Learning advanced Python, Django, REST APIs, and AI technologies
+- 🤖 Interested in AI agents, voice assistants, and workflow automation
+- 💼 Looking for internships and entry-level opportunities in software development
+- 🚀 Building projects to gain real-world development experience
+- 🤝 Open to collaboration on interesting software and AI projects
+
+---
+
+## 🚀 Current Projects
+
+### 🤖 AI Voice Agent
+
+An AI-powered voice agent project focused on creating voice-based interactions and intelligent assistance.
+
+**Focus:** AI | Voice Agents | Python | Automation
+
+---
+
+### 📧 Mail Automation
+
+An email automation project designed to simplify email-related tasks and improve productivity through automation.
+
+**Focus:** Python | Email Automation | APIs | Workflow Automation
+
+---
+
+### 💼 JobForge – Job Application Automation
+
+An AI-powered job application automation platform focused on simplifying the job search and application process.
+
+**Focus:** Python | AI | Automation | Web Development
+
+---
+
+### 📋 JobTrack – Job Application Tracker
+
+A Django-based application for managing and tracking job applications.
+
+**Features:**
+
+- Job application management
+- REST APIs
+- JWT authentication
+- Search and filtering
+- User-specific data access
+
+**Tech Stack:** Django | Django REST Framework | SQLite | JWT
+
+🔗 [View JobTrack](https://github.com/Dheeraj0928/JobTrack)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+</p>
+
+### Backend & Frameworks
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+</p>
+
+### Frontend
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" alt="Bootstrap"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+</p>
+
+### Databases & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Python and Django
+- REST API development
+- AI agents and voice automation
+- JavaScript and React
+- Git and GitHub workflows
+- Backend development and system design
+
+---
+
+## 📂 My Projects
+
+🔗 [Explore all my projects on GitHub](https://github.com/Dheeraj0928)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **dk.2.yadav28@gmail.com**
+- 💻 [GitHub](https://github.com/Dheeraj0928)
+- 📄 [Resume](https://drive.google.com/file/d/1__k40BHw8lc2EGTIlwUK0_IjHUE4r_Z7/view?usp=drive_link)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building projects that automate boring tasks and make everyday work easier. 😄
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
